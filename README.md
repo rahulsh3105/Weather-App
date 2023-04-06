@@ -5,7 +5,6 @@ Features:
 - Search for the weather of any city in the world
 - View current temperature, wind speed, humidity, and weather description
 - Automatically detects and displays the temperature in Celsius or Fahrenheit based on the user's location
-- Mobile-friendly design
 
 Technologies Used:
 - HTML
